@@ -1,6 +1,6 @@
 # My-Projects
 Links to my projects.
-1. Auctions - My Bachelor's degree final year project.
-2. RehearsalWare - Personal Project
-3. Salaric - Academic project machine learning
+1. Auctions - My Bachelor's degree final year project. - https://vercel.com/mosesimbahale0/auctions
+2. Bible - Personal Project - https://bible-zeta.vercel.app/
+
    
