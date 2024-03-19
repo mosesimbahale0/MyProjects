@@ -2,6 +2,6 @@
 2. Formic - A research based application. - https://smartforms.vercel.app/
 3. Bible - Personal Project - https://bible-zeta.vercel.app/
 4. Position Salary Predictor - 
-5. IBM Research - Africa Technical Challenge 2022 - 
+5. IBM Research - Africa Technical Challenge 2022 - https://github.com/mosesimbahale0/MyProjects/blob/main/IBM_research_ATC_2022.ipynb
 
    
